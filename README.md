@@ -1,11 +1,9 @@
-# Subashree-A-19CS301-Module-5
+# Module-5
 
-# 19CS301-Module5
+- **Name:** Naveen P  
+- **Register Number:** 212222050039
 
-- **Name:** Subashree A  
-- **Register Number:** 212222020029
-
-Exp.No:5(a)	Constructors- Parameterized Constructor
+# Exp.No:5(a)	Constructors- Parameterized Constructor
 ### AIM
 To write a Python code to create a Class for a Person with the parameterised constructor which will take the name and userid of the person as parameters print the userid  of the person,
 ### ALGORITHM
